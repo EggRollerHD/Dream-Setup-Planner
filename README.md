@@ -1,10 +1,10 @@
-# Tebula's Dream Home
+# Tebula's Setup
 
-Hello! Welcome to my dream home planning page. In here, I will list all the things that I'm dreaming to do for my home in the future.
+Hello! Welcome to my setup. In here, I will list all the things that my home currently has.
 
 ### Home
 
-Any size is fine.
+My mom's small apartment.
 
 ### Rooms
   - [Living Room]
