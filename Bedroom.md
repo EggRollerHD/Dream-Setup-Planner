@@ -12,20 +12,6 @@
 | **PILLOW COVER**       | Unknown |
 | **LIGHTS**             | Unknown |
 
-| Part | Model |
-| ---- | ----- |
-| **CPU** | Intel Core i5-10400F 2.9 GHz 6-Core Processor |
-| **COOLER** | ARCTIC Freezer 34 CO CPU Cooler |
-| **MOTHEROARD** |	MSI B560M PRO-VDH WIFI Micro ATX LGA1200 Motherboard |
-| **RAM** | Crucial Ballistix 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory |
-| **SSD** | Kingston A2000 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive	|
-| **SSD** (Secondary Drives) | Inland Professional 240 GB 2.5" Solid State Drive |
-| **GPU** | Gigabyte GAMING OC Rev 2.0 GeForce RTX 3060 12 GB Video Card |
-| **CASE** | Lian Li LANCOOL 215 ATX Mid Tower Case	|
-| **PSU** | MSI MPG A650GF 650 W 80+ Gold Certified Fully Modular ATX Power Supply |
-| **FANS** | (2x) Enermax SquA RGB 68.27 CFM 120 mm Fans 3-Pack |
-| **OS** | Microsoft Windows 10 Home OEM - DVD 64-bit	|
-
 **Note: I upgraded Windows 10 to Windows 11.**
 
 ### Personal Gaming Setup
@@ -42,11 +28,12 @@
 | **MOUSE** | [Glorious Model O Wireless (Matte Black, 2021)](https://www.amazon.com/dp/B098RDFP3J/ref=twister_B098RCVV3H) |
 | **KEYBOARD** | [Keychron K2 (RGB, Gateron G Pro Red Switch, V2)](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Keyboard-Wireless-Keyboard/dp/B07QBPCW4J/ref=sr_1_8) |
 | **KEYCAPS** | [YMDK ANSI ISO Pudding Keycaps (Black/White)](https://www.amazon.com/YMDK-Through-Pudding-Mechanical-Keyboard/dp/B09TXF36GL/ref=sr_1_3) |
-| **HEADPHONES** | [Sennheiser HD800S](https://www.amazon.com/Sennheiser-HD-800-Reference-Headphone/dp/B00PXLX2TC/ref=sr_1_1?crid=25D8CO3S6R8NN&keywords=hd800s&qid=1657310546&sprefix=hd8%2Caps%2C78&sr=8-1)
-| **HEADPHONE STAND** | [Under Desk Headphone Holder](https://www.amazon.com/SAMDI-Headphone-Headest-Hanger-Holder/dp/B07Q8KR244/ref=sr_1_5?crid=RFZN4AXRLVBJ&keywords=wood%2Bheadphone%2Bstand&qid=1665937359&qu=eyJxc2MiOiI1LjczIiwicXNhIjoiNS4zNyIsInFzcCI6IjUuMTYifQ%3D%3D&sprefix=wood%2Bheadp%2Caps%2C89&sr=8-5&th=1)
-| **MICROPHONE** | [Audio-Technica AT2020USB+](https://www.amazon.com/Audio-Technica-AT2020-Cardioid-Condenser-Microphone/dp/B00B5ZX9FM/ref=sr_1_2?keywords=audiotechnica%2Bat2020&qid=1656815336&sprefix=audiotechnica%2Caps%2C72&sr=8-2&th=1)
-| **SURGE PROTECTOR** | [Belkin Surge Protector (3940 Joules)](https://www.amazon.com/Belkin-BE112230-08-12-Outlet-Power-Protector/dp/B000J2EN4S/ref=sr_1_3?crid=SM85VYFGIHSM&keywords=belkin+surge+protector&qid=1655427731&sprefix=belkin+sur%2Caps%2C81&sr=8-3)
-| **WIRELESS CHARGING STATION** | [Anker 4-In-1 Wireless Charging Station](https://www.amazon.com/dp/B08LKNXJQV/ref=cm_sw_r_apan_i_RPA330BA0W548NM3XH9Q)
+| **HEADPHONES** | [Apple Earpods (3.5mm)](https://www.amazon.com/Apple-EarPods-3-5mm-Headphone-Plug/dp/B06X16Z7DZ/ref=sr_1_5) |
+| **HEADPHONE STAND** | [NewBee Headphone Holder (Black)](https://www.amazon.com/Headphone-New-Earphone-Supporting-Headphones/dp/B01GJQ7N94/ref=sr_1_3)
+| **MICROPHONE** | [FIFINE K669B](https://www.amazon.com/Microphone-Condenser-Recording-Streaming-669B/dp/B06XCKGLTP/ref=sr_1_4)
+| **BOOM ARM** | [SUNMON K669 Boom Arm (Cable Sleeves)](https://www.amazon.com/Windscreen-Suspension-Scissor-Microphone-SUNMON/dp/B08L34Z8KC/ref=sr_1_4)
+| **SURGE PROTECTOR** | [Defiant Surge Protector](https://www.upcitemdb.com/upc/6955837500107)
 
-# Personal Workstation Setup
+### Personal Workstation Setup
 
+| **LAPTOP** | [Lenovo Ideapad 330S 15ARR](https://www.amazon.com/Lenovo-330S-15ARR-Laptop-Memory-Platinum/dp/B07HGTFTZB)
