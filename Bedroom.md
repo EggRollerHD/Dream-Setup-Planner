@@ -37,12 +37,11 @@
 | **CHAIR**    | [BestOffice PC Gaming Chair (White)](https://www.amazon.com/BestMassage-Office-Desk-Gaming-Chair/dp/B01ICHJIM8/ref=sr_1_5) |
 | **RGB LIGHTS** | [Govee LED Strip Lights (32.8ft)](https://www.amazon.com/dp/B07RX57HDL/ref=twister_B08RDW938N) |
 | **COMPUTER** | [TeraTron V1](https://pcpartpicker.com/user/Tebula/saved/CBpwYJ) | 
-| **MONITOR**  | [MSI G242PM](https://www.amazon.com/MSI-Refresh-Monitor-Optix-G242PM/dp/B09X32W7F9/ref=sr_1_3_mod_primary_new) |
+| **MONITOR**  | [MSI Optix G242PM 23.8" 1920 x 1080 144 Hz Monitor](https://www.amazon.com/MSI-Refresh-Monitor-Optix-G242PM/dp/B09X32W7F9/ref=sr_1_3_mod_primary_new) |
 | **DESKMAT** | Unknown |
 | **MOUSE** | [Glorious Model O Wireless (Matte Black, 2021)](https://www.amazon.com/dp/B098RDFP3J/ref=twister_B098RCVV3H) |
-| **MOUSE BUNGEE** | [Razer Gaming Mouse Bungee V3 (Chroma)](https://www.amazon.com/Razer-Gaming-Mouse-Bungee-RC21-01560100-R3U1/dp/B08HCF3W5Q/ref=sr_1_3?crid=3J7B5TO4BLJSX&keywords=mouse%2Bbungee&qid=1665937207&qu=eyJxc2MiOiI0LjUyIiwicXNhIjoiNC4wOCIsInFzcCI6IjMuODIifQ%3D%3D&sprefix=mouse%2Bbungee%2Caps%2C83&sr=8-3&th=1) |
-| **KEYBOARD** | [Keychron C1 (Hot-Swappable, Gateron G Pro Red Switch, RGB)](https://www.amazon.com/Keychron-Hot-swappable-Mechanical-Tenkeyless-Double-Shot/dp/B08CN9V7XX/ref=sr_1_3?crid=25D20QYDFEWQD&keywords=keychron%2Bc1%2Brgb&qid=1654477977&sprefix=keychron%2Bc1%2Br%2Caps%2C72&sr=8-3&th=1) |
-| **KEYCAPS** | [Ducky SA Keycaps (Cotton Candy)](https://www.amazon.com/Ducky-Doubleshot-Keyboards-Compatible-Standard/dp/B08FMY68X1/ref=sr_1_4?crid=1J057MYFXPJ30&keywords=duck%2Bkeycaps&qid=1653881530&sprefix=duck%2Bkeycaps%2Caps%2C70&sr=8-4&th=1) |
+| **KEYBOARD** | [Keychron K2 (RGB, Gateron G Pro Red Switch, V2)](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Keyboard-Wireless-Keyboard/dp/B07QBPCW4J/ref=sr_1_8) |
+| **KEYCAPS** | [YMDK ANSI ISO Pudding Keycaps (Black/White)](https://www.amazon.com/YMDK-Through-Pudding-Mechanical-Keyboard/dp/B09TXF36GL/ref=sr_1_3) |
 | **HEADPHONES** | [Sennheiser HD800S](https://www.amazon.com/Sennheiser-HD-800-Reference-Headphone/dp/B00PXLX2TC/ref=sr_1_1?crid=25D8CO3S6R8NN&keywords=hd800s&qid=1657310546&sprefix=hd8%2Caps%2C78&sr=8-1)
 | **HEADPHONE STAND** | [Under Desk Headphone Holder](https://www.amazon.com/SAMDI-Headphone-Headest-Hanger-Holder/dp/B07Q8KR244/ref=sr_1_5?crid=RFZN4AXRLVBJ&keywords=wood%2Bheadphone%2Bstand&qid=1665937359&qu=eyJxc2MiOiI1LjczIiwicXNhIjoiNS4zNyIsInFzcCI6IjUuMTYifQ%3D%3D&sprefix=wood%2Bheadp%2Caps%2C89&sr=8-5&th=1)
 | **MICROPHONE** | [Audio-Technica AT2020USB+](https://www.amazon.com/Audio-Technica-AT2020-Cardioid-Condenser-Microphone/dp/B00B5ZX9FM/ref=sr_1_2?keywords=audiotechnica%2Bat2020&qid=1656815336&sprefix=audiotechnica%2Caps%2C72&sr=8-2&th=1)
