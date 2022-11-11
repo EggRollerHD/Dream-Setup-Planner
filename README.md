@@ -1,6 +1,6 @@
 # EggRollerHD's Setup
 
-## Hello! Welcome to my setup. In here, I will list all the things that my home currently has.
+##### Hello! Welcome to my setup. In here, I will list all the things that my home currently has.
 
 ### For everyone who only cares about my PC, the specs are posted [here](https://pcpartpicker.com/user/Tebula/saved/CBpwYJ).
 
