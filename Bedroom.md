@@ -27,7 +27,6 @@
 | **DESKMAT** | Unknown |
 | **MOUSE** | [Glorious Model O Wireless (Matte Black, 2021)](https://www.amazon.com/dp/B098RDFP3J/ref=twister_B098RCVV3H) |
 | **KEYBOARD** | [Keychron K2 (RGB, Gateron G Pro Red Switch, V2)](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Keyboard-Wireless-Keyboard/dp/B07QBPCW4J/ref=sr_1_8) |
-| **KEYCAPS** | [YMDK ANSI ISO Pudding Keycaps (Black/White)](https://www.amazon.com/YMDK-Through-Pudding-Mechanical-Keyboard/dp/B09TXF36GL/ref=sr_1_3) |
 | **HEADPHONES** | [Apple Earpods (3.5mm)](https://www.amazon.com/Apple-EarPods-3-5mm-Headphone-Plug/dp/B06X16Z7DZ/ref=sr_1_5) |
 | **HEADPHONE STAND** | [NewBee Headphone Holder (Black)](https://www.amazon.com/Headphone-New-Earphone-Supporting-Headphones/dp/B01GJQ7N94/ref=sr_1_3)
 | **MICROPHONE** | [FIFINE K669B](https://www.amazon.com/Microphone-Condenser-Recording-Streaming-669B/dp/B06XCKGLTP/ref=sr_1_4)
